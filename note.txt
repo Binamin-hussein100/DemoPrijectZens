@@ -2,3 +2,9 @@ Github
 1. git init => initialization of the git process.
 2. creating a github repo.
 3. git add .
+4. git commit
+5. Add remote origin
+6. git push
+-----------------------
+7. Git branch => for listing branches.
+8. git checkout to switch to a new branch
